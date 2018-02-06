@@ -1,9 +1,0 @@
----
-layout: base
-title:  "Lesson 1"
-date:   2018-01-25 13:25:05 -0600
-categories: jekyll update
----
-This is an example of a lesson page. Notice that only the first paragraph in this file shows up in the overview page.
-
-We can link to external sites using markdown. For example: [Slides](https://docs.google.com/presentation/d/1w64-DbP72VUyHHBD2supXOg4hyRsDi5dJ83Y3RSGrPQ/edit?usp=sharing)
