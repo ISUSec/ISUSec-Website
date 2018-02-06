@@ -1,7 +1,0 @@
----
-layout: base
-title:  "Lesson 2"
-date:   2018-01-25 13:25:05 -0600
-categories: jekyll update
----
-This is another example of a lesson.
