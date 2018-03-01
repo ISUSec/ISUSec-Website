@@ -1,10 +1,8 @@
 ---
 layout: base
-title:  "ISUSec Day 2"
-date:   2018-01-25 13:25:05 -0600
+title:  "ISUSec Day 6"
+date:   2018-02-28 13:25:05 -0600
 categories: lesson
 ---
-Today we will be starting with a new war games site.
-The website link is at: hackthissite.org
-The slides are here:   (They contain answers to the problems, don't cheat if you want to learn)
-[Slides](https://docs.google.com/presentation/d/13vH5IfOYYPTbXp85Klolln8KCsCmK3m_ayF7FeiMhzE/edit?usp=sharing)
+Today we will be practicing a CTF for the up and coming cons and other collegiate CTFs
+[Slides](https://docs.google.com/presentation/d/1zUV8zmzWTiJWzOCTK6P6JKcnusHCS5b7wzACwtxJBes/edit?usp=sharing)
