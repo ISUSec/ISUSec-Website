@@ -1,8 +1,0 @@
----
-layout: base
-title:  "ISUSec Day 5"
-date:   2018-01-25 13:25:05 -0600
-categories: lesson
----
-Today we will talk about the practical application of python in infosec
-[Slides](https://docs.google.com/presentation/d/1ikDaj_VNA5Dk-pQDD4YVGE-ozeDeDoBFxntu4UzugJI/edit?usp=sharing)

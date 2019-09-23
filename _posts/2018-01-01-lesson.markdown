@@ -1,8 +1,0 @@
----
-layout: base
-title:  "ISUSec Day 6"
-date:   2018-02-28 13:25:05 -0600
-categories: lesson
----
-Today we will be practicing a CTF for the up and coming cons and other collegiate CTFs
-[Slides](https://docs.google.com/presentation/d/1zUV8zmzWTiJWzOCTK6P6JKcnusHCS5b7wzACwtxJBes/edit?usp=sharing)
