@@ -1,7 +1,7 @@
 ---
 layout: base
 ---
-![alt text](/img/logo.svg "ISUSec Logo")
+![alt text](img/logo.svg "ISUSec Logo")
 
 ISUSec is a collegiate information security club that is dedicated to teaching computer security. At any given time we have a various research projects that attempt to improve the field of computer security.
 
